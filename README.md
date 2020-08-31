@@ -1,2 +1,2 @@
 # jsDelivrPic
-jsDelivr+GitHub搭建图床
+jsDelivr+GitHub+PicGo搭建图床
